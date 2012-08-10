@@ -1,7 +1,7 @@
 ###JavaScript TestRunner###
 
 
-This is a simple JavaScript test framework so I can exercise my API.  Right now the API is private so this repo is private also.  Hopefully that will change.
+This is a simple JavaScript test framework so I can exercise my API.  
 
 #####How it Works#####
 =================
